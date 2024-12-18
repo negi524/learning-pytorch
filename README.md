@@ -1,5 +1,5 @@
-# python-starter
-Pythonのプロジェクトテンプレート
+# learning-pytorch
+PyTorch学習用の環境
 
 ## プロジェクトインストール
 
