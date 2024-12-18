@@ -69,3 +69,6 @@ poetry update
 ```
 
 [poetry documentation](https://python-poetry.org/docs/cli/#update)
+
+## サンプルデータ入手先
+- [環境省パンフレット(PDF)](https://www.env.go.jp/guide/gyomu_pdf/index.html)
